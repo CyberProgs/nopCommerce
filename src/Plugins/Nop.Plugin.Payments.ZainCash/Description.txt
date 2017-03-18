@@ -1,0 +1,9 @@
+﻿Group: Payment methods
+FriendlyName: ZainCashPayment
+SystemName: Payments.ZainCash
+Version: 1.0
+SupportedVersions: 3.90
+Author: CyberProgs
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.ZainCash.dll
+Description: This plugin allows paying with ZainCash
